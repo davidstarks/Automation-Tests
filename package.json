@@ -1,0 +1,26 @@
+{
+  "name": "automation-tests",
+  "version": "1.0.25",
+  "description": "My automation tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --env configFile=stage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidstarks/Automation-Tests.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "David Starks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidstarks/Automation-Tests/issues"
+  },
+  "homepage": "https://github.com/davidstarks/Automation-Tests#readme",
+  "devDependencies": {
+    "cypress": "^2.1.0",
+    "fl-jsuiauto": "^1.0.25"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://silverclientawsstage.flqa.net",
+  "env": {
+    "username": "npomo",
+    "password": "q1234567",
+    "clientId": "NickPOC",
+    "secret": "secret",
+    "gatewayUrl": "https://idgatewayawsstage.flqa.net",
+    "fcServicesBaseUrl": "https://ecsandproxyawsqa.flqa.net"
+  }
+}
